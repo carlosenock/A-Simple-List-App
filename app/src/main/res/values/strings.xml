@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple List App</string>
+    <string name="base_api_url">http://private-f0eea-mobilegllatam.apiary-mock.com/</string>
+    <string name="titleServerError">Ups!</string>
+    <string name="subtitleServerError">
+        <![CDATA[
+            Algo sucedió en la carga, por favor espera un momento y <b>actualiza.</b>
+        ]]>
+    </string>
+    <string name="buttonTextServerError">VOLVER A CARGAR</string>
+</resources>
