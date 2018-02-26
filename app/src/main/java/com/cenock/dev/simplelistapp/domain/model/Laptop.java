@@ -9,4 +9,5 @@ public class Laptop {
     public String title;
     public String description;
     public String image;
+    public String imageDrawable;
 }

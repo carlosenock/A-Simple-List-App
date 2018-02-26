@@ -1,4 +1,5 @@
 <resources>
+    <string name="main_screen_name">Laptops</string>
     <string name="app_name">Simple List App</string>
     <string name="base_api_url">http://private-f0eea-mobilegllatam.apiary-mock.com/</string>
     <string name="titleServerError">Ups!</string>

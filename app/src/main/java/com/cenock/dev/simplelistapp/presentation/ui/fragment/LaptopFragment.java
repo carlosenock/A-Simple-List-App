@@ -40,6 +40,7 @@ public class LaptopFragment extends BaseStackFragment<FragmentLaptopBinding> imp
     @Override
     protected void initView() {
         presenter.initialize(this);
+        binder.includedToolbar.tvName.setText(getString(R.string.main_screen_name));
     }
 
     @Override

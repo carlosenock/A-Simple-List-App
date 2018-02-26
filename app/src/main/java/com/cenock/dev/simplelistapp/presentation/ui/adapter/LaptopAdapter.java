@@ -9,7 +9,6 @@ import com.cenock.dev.simplelistapp.R;
 import com.cenock.dev.simplelistapp.databinding.ItemLaptopBinding;
 import com.cenock.dev.simplelistapp.domain.model.Laptop;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import cleancore.dev.cenock.com.core.presentation.ui.adapter.BaseListAdapter;
